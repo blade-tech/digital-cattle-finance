@@ -2,7 +2,7 @@ import imgImage from "figma:asset/cd5f7f9e70aa17fa6ff4e2ceb44822a3c61d9719.png";
 import imgImage1 from "figma:asset/50c01d8c090069f885a08b92bd49889aeea32be6.png";
 import imgImage2 from "figma:asset/25082c2ffacd2706a9defe5f2cfe818698f655c5.png";
 import imgImage3 from "figma:asset/c52349ae8c80f002f03465ebf4d9c8e43f591963.png";
-import imgImage4 from "figma:asset/e227e6fb9489638b4df12ef723883f2a83d4a71c.png";
+import imgImage4 from "figma:asset/e227e6fb9489638b4df12ef723883f2a83d4a51c.png";
 import imgImageCattle05 from "figma:asset/311a3c1df4c8451e43a5a5eb1dfef3bb9b7a0030.png";
 import imgImageCattle03 from "figma:asset/205926fd7d7f3f7589867ad617ac94f558101076.png";
 
