@@ -44,4 +44,4 @@ pids
 .vercel/
 
 # Claude settings
-.claude/
+.claude/# Force deployment
